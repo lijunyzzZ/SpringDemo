@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="73969de5-e44e-495f-953f-4614787b1910" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552655874084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552664203420" />
     <property name="editor.config.ad.shown" value="true" />
   </component>
   <component name="RunDashboard">
