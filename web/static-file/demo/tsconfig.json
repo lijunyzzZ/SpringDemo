@@ -3,7 +3,9 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "lib": ["dom", "es2016"],
-    "target": "es5"
+    "target": "es5",
+    // 允许从没有设置默认导出的模块中默认导入
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["./src/**/*"]
 }

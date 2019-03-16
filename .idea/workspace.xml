@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73969de5-e44e-495f-953f-4614787b1910" name="Default Changelist" comment="" />
+    <list default="true" id="73969de5-e44e-495f-953f-4614787b1910" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/demo/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/demo/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/demo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/demo/tsconfig.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552712950254" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552715826964" />
     <property name="editor.config.ad.shown" value="true" />
   </component>
   <component name="RunDashboard">
@@ -91,7 +100,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3293000" />
+    <option name="totallyTimeSpent" value="3735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
