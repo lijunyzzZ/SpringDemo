@@ -71,6 +71,17 @@ module.exports = {
         options: {
           appendTsSuffixTo: [/\.vue$/],
         }
+      },
+      {
+        test: /\.(eot|svg|ttf|woff|woff2)(\?\S*)?$/,
+        loader: 'file-loader'
+      },
+      {
+        test: /\.(png|jpe?g|gif|svg)(\?\S*)?$/,
+        loader: 'file-loader',
+        query: {
+          name: '[name].[ext]?[hash]'
+        }
       }
     ]
   },
