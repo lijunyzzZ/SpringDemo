@@ -4,10 +4,13 @@
     <list default="true" id="73969de5-e44e-495f-953f-4614787b1910" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/static-file/my-project/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static-file/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/src/vue.shim.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static-file/my-project/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/static-file/my-project/tsconfig.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,7 +121,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552664203420" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552711358886" />
     <property name="editor.config.ad.shown" value="true" />
   </component>
   <component name="RunDashboard">
@@ -148,7 +151,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2898000" />
+    <option name="totallyTimeSpent" value="3087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
