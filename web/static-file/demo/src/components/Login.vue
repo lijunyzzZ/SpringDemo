@@ -15,24 +15,27 @@
           <div class="demo-input-suffix">账号：
             <el-input
               placeholder="请输入内容"
-              v-model="input10"
               clearable
               class="account-input"
               style="account"
+              v-model="account"
             >
             </el-input>
           </div>
           <div class="demo-input-suffix">账号：
             <el-input
               placeholder="请输入密码"
-              v-model="input11"
               show-password
               class="passwd-input"
               style="passwd"
+              v-model="passwd"
             ></el-input>
           </div>
           <el-button type="primary">注册</el-button>
-          <el-button type="success">登录</el-button>
+          <el-button
+            type="success"
+            @click="loginAccount(account,passwd)"
+          >登录</el-button>
         </el-aside>
 
       </el-main>
@@ -41,15 +44,18 @@
 </template>
 
 <script lang="ts">
-console.log("执行login.vue");
 import Vue from "vue";
+import Component from "vue-class-component";
 
-export default Vue.extend({
-  name: "Login",
-  methods(){
-
-  },
-  data() {
+@Component
+export default class LoginApp extends Vue {
+  public name: "Login";
+  public loginAccount(account: string, passwd: string): void {
+    console.log(account);
+    console.log(passwd);
+    console.log("click do");
+  }
+  public data() {
     return {
       msg: "Welcome to Your Vue.js App",
       note: {
@@ -62,7 +68,7 @@ export default Vue.extend({
       passwd: ""
     };
   }
-});
+}
 </script>
 
 <style>

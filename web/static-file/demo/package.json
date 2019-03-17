@@ -16,6 +16,8 @@
     "element-ui": "^2.6.1",
     "style-loader": "^0.23.1",
     "vue": "^2.5.2",
+    "vue-class-component": "^7.0.1",
+    "vue-property-decorator": "^8.0.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
