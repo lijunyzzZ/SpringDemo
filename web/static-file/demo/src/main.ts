@@ -2,6 +2,8 @@ import Vue from 'vue'
 
 import 'element-ui/lib/theme-chalk/index.css'
 import App from './App.vue'
+import router from './router'
+import Login from '@/components/Login.vue'
 // Vue.component(Carousel.name, Carousel);
 import {
   Pagination,
@@ -146,6 +148,7 @@ Vue.prototype.$notify = Notification;
 Vue.prototype.$message = Message;
 let page = new Vue({
   el: '#app',
-  render: h => h(App)
+  router,
+  render: h => h(Login)
 })
 console.log('执行 main.ts')
